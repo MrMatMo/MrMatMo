@@ -30,7 +30,7 @@ I’m a [developer / designer / student] who enjoys turning ideas into useful, t
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [CesiumJS_3D_Map](https://github.com/MrMatMo/CesiumJS_3D_Map) | A short, outcome-focused description. | `Tech` · `Tech` |
+| [CesiumJS_3D_Map](https://github.com/MrMatMo/CesiumJS_3D_Map) | A 3D Cesium globe hosted inside a WPF. | `Tech` · `Tech` |
 
 
 ## Let’s connect
