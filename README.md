@@ -30,7 +30,7 @@ I’m a [developer / designer / student] who enjoys turning ideas into useful, t
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [CesiumJS_3D_Map](https://github.com/MrMatMo/CesiumJS_3D_Map) | A 3D Cesium globe hosted inside a WPF. | `<img alt="C%23" src="https://img.shields.io/badge/C%23-222?logo=dotnet&logoColor=512BD4" />` · ` <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-222?logo=javascript&logoColor=F7DF1E" />` |
+| [CesiumJS_3D_Map](https://github.com/MrMatMo/CesiumJS_3D_Map) | A 3D Cesium globe hosted inside a WPF. | <img alt="C%23" src="https://img.shields.io/badge/C%23-222?logo=dotnet&logoColor=512BD4" /> · <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-222?logo=javascript&logoColor=F7DF1E" /> |
 
 
 ## Let’s connect
